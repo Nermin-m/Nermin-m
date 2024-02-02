@@ -1,4 +1,4 @@
-
+Fotoğraf ekleme : [![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
 <h1 align="center">Hi 👋, I'm Narmin Muradzadeh</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
