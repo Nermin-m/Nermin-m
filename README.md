@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Narmin Muradzadeh</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on [React,NextJs/Typescript](https://github.com/Nermin-m/foodyDelivery.git)
+- 🔭 I’m currently working on [React,NextJs/Typescript](https://github.com/Nermin-m/FoodyDelivery-App.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nermin-m](https://github.com/Nermin-m)
 
