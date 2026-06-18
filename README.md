@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [(https://sensiblehr.az/))
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nermin-m](https://github.com/Nermin-m)
+- 👨‍💻 All of my projects are available at (https://portfolio-narmin-ms-projects.vercel.app/)
 
 - 📫 How to reach me **muradzadenermin2@gmail.com**
 
