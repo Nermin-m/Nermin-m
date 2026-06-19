@@ -1,6 +1,19 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,12,18,22,25&height=250&section=header&text=Hi%20there,%20I'm%20Narmin%20👋&fontSize=56&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=Programming+Code&descAlignY=60&descSize=15" alt="Advanced Coding Banner" />
-
+<div align="center">
+  <div style="display: inline-block; position: relative; width: 100%;">
+    <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&width=1000&auto=format&fit=crop" alt="Coding Background" width="100%" style="border-radius: 10px; max-height: 280px; object-fit: cover; opacity: 0.8;" />
+    
+    <div style="margin-top: -180px; margin-bottom: 50px; position: relative; z-index: 10;">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=39FFF3&center=true&vCenter=true&width=700&height=50&lines=Hi+there%2C+I'm+Narmin+👋" alt="Typing Title" />
+      </a>
+      <br />
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=Frontend+Developer+from+Azerbaijan;Building+SensibleHR.az;Passionate+about+Modern+UI%2fUX" alt="Typing Subtitle" />
+      </a>
+    </div>
+  </div>
+</div>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FFF3&center=true&vCenter=true&width=500&lines=Frontend+Developer+from+Azerbaijan;Building+SensibleHR.az;Passionate+about+Modern+UI%2fUX" alt="Typing SVG" />
 </a>
