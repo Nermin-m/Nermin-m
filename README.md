@@ -1,8 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,12,18,22,25&height=250&section=header&text=Hi%20there,%20I'm%20Narmin%20👋&fontSize=56&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Banner" />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FFF3&center=true&vCenter=true&width=500&lines=Frontend+Developer+from+Azerbaijan;Building+SensibleHR.az;Passionate+about+Modern+UI%2fUX" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,12,18,22,25&height=250&section=header&text=Hi%20there,%20I'm%20Narmin%20👋&fontSize=56&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=Programming+Code&descAlignY=60&descSize=15" alt="Advanced Coding Banner" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FFF3&center=true&vCenter=true&width=500&lines=Frontend+Developer+from+Azerbaijan;Building+SensibleHR.az;Passionate+about+Modern+UI%2fUX" alt="Typing SVG" />
+</a>
 
   <p align="center">
     <a href="https://linkedin.com/in/narmin-muradzadeh-885640223/" target="_blank">
@@ -60,9 +61,7 @@
 </p>
 ---
 
-## 📊 GitHub Analytics (Dinamik və Canlı)
 
-Gördüyün işlərin statistikasını daha səliqəli və "Dark Mode" ilə uyğunlaşan xüsusi mövzu (React/Cyberpunk üslubunda) ilə qruplaşdırdım:
 
 <div align="center">
   <table border="0">
