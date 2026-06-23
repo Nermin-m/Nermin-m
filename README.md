@@ -22,7 +22,7 @@
 
 ## 💫 About Me
 
-* 🔭 **Hazırda burda çalışıram:** [SensibleHR](https://sensiblehr.az/) layihəsi üzərində işləyirəm.
+* 🔭 **Hazırda bu layihə  üzərində işləyirəm :** [SensibleHR](https://sensiblehr.az/) 
 * 👨‍💻 **Portfoliom:** Bütün layihələrimə buradan baxa bilərsən: [portfolio-narmin-ms-projects.vercel.app](https://portfolio-narmin-ms-projects.vercel.app/)
 * ⚡ **Hədəfim:** Həmişə daha təmiz, performanslı və istifadəçi dostu kod yazmaq.
 
